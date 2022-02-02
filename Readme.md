@@ -40,19 +40,19 @@ blockchain
 Po uruchomieniu aplikacji użytkownikowi ukaże się ekran
 tworzenia gry wraz z listą zasad jakie w niej obowiązują.
 
-![Create page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/create_page.png?raw=true)
+![Create page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/docs/images/create_page.png?raw=true)
 
 Po kliknięci przyciska „Start game” użytkownik zostanie przekierowany na strone
 z grą.
 
-![Game page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/game_page.png.png?raw=true)
+![Game page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/docs/images/game_page.png?raw=true)
 
 W lewym górnym rogu użytkownik może zobaczyć jaka figura
 odpowiada któremu graczowi. Na środku widać czyja jest teraz
 tura. Użytkownik ma możliwość kliknięcia w 1 z 9 kafelków aby
 umieścić tam swoją figurę jeśli ten nie będzie wcześniej zajęty.
 
-![Game in progress page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/game_in_proggres_page.png?raw=true)
+![Game in progress page](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/docs/images/game_in_proggres_page.png?raw=true)
 
 Po kliknięciu na danym kafelku ukaże się figura gracza który ją
 kliknął. Gdy jeden z graczy zdoła umieścić 3 swoje figury w
@@ -62,7 +62,7 @@ się ekran rezultatu gry.
 Pokaże się on również gdy planszą będzie pełna i żaden z
 graczy nie wygra.
 
-![Game result](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/result_page.png?raw=true)
+![Game result](https://github.com/SMasiu/blockchain_tic_tac_toe/blob/main/docs/images/result_page.png?raw=true)
 
 Na ekranie rezultatu gry użytkownik może zobaczyć kto wygrał.
 Oraz jaki jest ogólny wynik z wszystkich odbytych dotychczas
