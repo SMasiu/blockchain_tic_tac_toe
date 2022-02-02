@@ -1,0 +1,1 @@
+g++ -o ./build/main.o main.cpp -LC:/dev/lib -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio -lsfml-network && ./build/main.o
